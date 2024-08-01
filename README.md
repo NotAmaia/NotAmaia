@@ -1,4 +1,8 @@
 ## Hi there! I'm Amaia 👋
+I'm currently working on:
+- Flight Software @ ELFIN CubeSat 🛰️
+- Frontend Dev @ ACM TeachLA 🌱
+- Full-Stack Dev @ GroceryHaul 🛒 
 
 <!--
 I'm currently working on:
