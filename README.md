@@ -2,7 +2,7 @@
 I'm currently working on:
 - Flight Software @ ELFIN CubeSat, 3U cubesats funded by NSF and NASA contributing to the study of space weather 🛰️
 - Frontend Dev @ ACM TeachLA, web apps to empower students with the ability to code 🌱
-- Full-Stack Dev @ GroceryHaul, a website to help you efficiently prep your next meal 🛒 
+- Full-Stack Dev @ GroceryHaul, a website to help you efficiently determine and get the ingredients for your next dish 🛒 
 
 <!--
 I'm currently working on:
