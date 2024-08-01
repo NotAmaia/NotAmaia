@@ -1,8 +1,8 @@
 ## Hi there! I'm Amaia 👋
 I'm currently working on:
-- Flight Software @ ELFIN CubeSat 🛰️
-- Frontend Dev @ ACM TeachLA 🌱
-- Full-Stack Dev @ GroceryHaul 🛒 
+- Flight Software @ ELFIN CubeSat, award winning 3U cubesats funded by NSF and NASA 🛰️
+- Frontend Dev @ ACM TeachLA, web apps to empower students with the ability to code 🌱
+- Full-Stack Dev @ GroceryHaul, a website to help you efficiently prep your upcoming meal 🛒 
 
 <!--
 I'm currently working on:
