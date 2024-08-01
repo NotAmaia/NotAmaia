@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hi there! I'm Amaia 👋
 
 <!--
+I'm currently working on:
+- Flight Software @ ELFIN CubeSat 
+- Frontend Dev @ ACM TeachLA
+- Full-Stack Dev @ GroceryHaul
+
 **NotAmaia/NotAmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
